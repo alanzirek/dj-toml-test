@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "my-cool-django-app"
 version = "42"
 dependencies = [
-	"django==5.0.4"
+	"django==5.0.6"
 ]
 
 [project.optional-dependencies]
